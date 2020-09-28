@@ -28,7 +28,7 @@ Contains data on a specific pair.
 
 #### Transaction
 
-Every transaction on BSCswap is stored. Each transaction contains an array of mints, burns, and swaps that occured within it.
+Every transaction on SwapLiquidity is stored. Each transaction contains an array of mints, burns, and swaps that occured within it.
 
 #### Mint, Burn, Swap
 
